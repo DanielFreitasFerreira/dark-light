@@ -5,7 +5,7 @@
 
 Um pequeno projeto que faz a troca de tema de dark para light.
 
-<img src="img/imagem.gif"/>
+<img src="img/img1.gif"/>
 
 <h2>
 <img src="img/codigo.png"/> 
