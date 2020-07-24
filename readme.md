@@ -1,9 +1,11 @@
 <h1>
-<img src=""/>
+<img src="https://icon-icons.com/icons2/67/PNG/32/finishflag_acabado_13305.png"/>
   Projeto Dark / Light
 </h1>
 
 Um pequeno projeto que faz a troca de tema de dark para light.
+
+<img src="img/imagem.gif"/>
 
 <h2>
 <img src="img/codigo.png"/> 
